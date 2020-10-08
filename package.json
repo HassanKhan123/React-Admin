@@ -1,0 +1,14 @@
+{
+  "name": "react-admin",
+  "version": "1.0.0",
+  "description": "React Admin",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "author": "Hassan Khan",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}

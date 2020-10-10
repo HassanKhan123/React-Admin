@@ -2,9 +2,9 @@
   "posts": [
     {
       "id": "1",
-      "title": "Post One",
-      "body": "This is the post body",
-      "publishedAt": "10-01-2020"
+      "title": "Post 1",
+      "body": "This is the first post body",
+      "publishedAt": "2020-10-03"
     },
     {
       "id": "2",
